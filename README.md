@@ -28,3 +28,6 @@ Easy Offline Product Activation
 - Use `PA_Public.exe` to get your MachineID
 - use `PA_Private.exe <MachineID>` to create signature for client
 - Use `PA_Public.exe <Signature_in_Base64>` to verify signature
+
+## License
+Source code is released under [MIT License](http://www.opensource.org/licenses/MIT).
