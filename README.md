@@ -1,7 +1,7 @@
 Product_Activation
 ==================
 
-Easy Offline Product Activation
+An Offline Product Activation Demo Built from Scratch.
 
 ## Requirement
 
